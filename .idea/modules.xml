@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BattleShipGame.iml" filepath="$PROJECT_DIR$/BattleShipGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BattleShipLogic/BattleShipLogic.iml" filepath="$PROJECT_DIR$/BattleShipLogic/BattleShipLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BattleShipUI/BattleShipUI.iml" filepath="$PROJECT_DIR$/BattleShipUI/BattleShipUI.iml" />
+    </modules>
+  </component>
+</project>
